@@ -8,6 +8,7 @@ my $builder = $build_class->new(
   module_name         => 'JSON::ON',
   license             => 'perl',
   requires => {
+    'JSON'                    => 0, # JSON::XS if you like
     'Scalar::Util'            => 0,
     'Class::Accessor::Classy' => 0,
   },

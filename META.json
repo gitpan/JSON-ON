@@ -28,6 +28,7 @@
       "runtime" : {
          "requires" : {
             "Class::Accessor::Classy" : "0",
+            "JSON" : "0",
             "Scalar::Util" : "0"
          }
       }
@@ -35,7 +36,7 @@
    "provides" : {
       "JSON::ON" : {
          "file" : "lib/JSON/ON.pm",
-         "version" : "v0.0.2"
+         "version" : "v0.0.3"
       }
    },
    "release_status" : "stable",
@@ -51,5 +52,5 @@
          "url" : "git://git.scratchcomputing.com/JSON-ON.pm.git"
       }
    },
-   "version" : "v0.0.2"
+   "version" : "v0.0.3"
 }
