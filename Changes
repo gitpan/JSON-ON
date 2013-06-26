@@ -1,5 +1,9 @@
 Revision history for JSON-ON
 
+v0.0.2 2013-06-26
+
+  * declare dependencies in metadata
+
 v0.0.1 2013-06-03
 
   * first public release

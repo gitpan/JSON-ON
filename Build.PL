@@ -8,6 +8,8 @@ my $builder = $build_class->new(
   module_name         => 'JSON::ON',
   license             => 'perl',
   requires => {
+    'Scalar::Util'            => 0,
+    'Class::Accessor::Classy' => 0,
   },
   build_requires => {
     'Module::Build' => 0.34,

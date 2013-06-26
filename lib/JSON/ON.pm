@@ -1,5 +1,5 @@
 package JSON::ON;
-$VERSION = v0.0.1;
+$VERSION = v0.0.2;
 
 use warnings;
 use strict;
@@ -230,7 +230,8 @@ have been warned.
 
 =head1 LICENSE
 
-
+This program is free software; you can redistribute it and/or modify it
+under the same terms as Perl itself.
 
 =cut
 
